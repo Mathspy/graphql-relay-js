@@ -22,6 +22,7 @@ export {
   connectionArgs,
   connectionDefinitions,
   forwardConnectionArgs,
+  pageInfoType,
 } from './connection/connection.js';
 
 // Helpers for creating connections from arrays
